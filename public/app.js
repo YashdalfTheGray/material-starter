@@ -1,7 +1,7 @@
 /* global angular */
 /* global _ */
 
-angular.module('jsPatternsDemo', 
+angular.module('materialStart', 
     [
         'ui.router',
         'ngAnimate',
