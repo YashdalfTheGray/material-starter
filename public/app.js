@@ -26,7 +26,7 @@ angular.module('materialStart',
 
             $mdThemingProvider.theme('default')
                 .primaryPalette('blue')
-                .accentPalette('blue',{
+                .accentPalette('pink',{
                     'default': 'A400',
                     'hue-1': 'A700'
                 })
